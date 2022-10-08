@@ -1,6 +1,3 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
 ## Introduction
 
 I looked at may day #1 entries on GitHub and I think that there is not a single right way to do this. So I am sharing with you what I have already done in the run up to day 1
