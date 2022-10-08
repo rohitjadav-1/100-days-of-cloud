@@ -19,7 +19,11 @@ At the end of the challenge, I would like to:
 - DevSecOps
 
 Follow me on Twitter [@saucyvip3r](https://twitter.com/saucyvip3r)
+
+
 Connect with me on Linkedin [Rohit Jadav](https://www.linkedin.com/in/rohitjadav/)
+
+
 Check out my [blog](https://rohitjadav.com)
 
 ## Stepping out the door
