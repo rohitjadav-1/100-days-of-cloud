@@ -1,7 +1,8 @@
 <p align="center">
   <img src="banner.png">
 </p>
-## Rohit's Cloud Journey
+
+# Rohit's Cloud Journey
 
 Hi, My name is Rohit Jadav, I have 7+ years of experience in Information security domain, currently working as a cloud security team lead. I have primarily worked on Web and Mobile application pentesting, API security testing, Red Teaming and Cloud security testing. I am working towards a career as an cloud or Devsecops engineer. Below are my certifications:
 
