@@ -1,29 +1,25 @@
 <p align="center">
   <img src="banner.png">
 </p>
+## Rohit's Cloud Journey
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+Hi, My name is Rohit Jadav, I have 7+ years of experience in Information security domain, currently working as a cloud security team lead. I have primarily worked on Web and Mobile application pentesting, API security testing, Red Teaming and Cloud security testing. I am working towards a career as an cloud or Devsecops engineer. Below are my certifications:
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/earner/earned/badge/530fa4d8-793a-4263-bb9d-e67604aa2054)
 
-## [✍️ Your Name]'s Cloud Journey
+At the end of the challenge, I would like to:
 
-[✍️ Introduce yourself]
+- Become confortable with core cloud concepts for AWS, Azure and GCP
+- Knowledgeable on Ansible and Terraform
+- Build pipelines using Azure DevOps, GitHub actions, and Jenkins
+- Bit of Python and Go programming
+- Containarization and orchastration
+- Kubernetes
+- DevSecOps
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Follow me on Twitter [@saucyvip3r](https://twitter.com/saucyvip3r)
+Connect with me on Linkedin [Rohit Jadav](https://www.linkedin.com/in/rohitjadav/)
+Check out my [blog](https://rohitjadav.com)
 
 ## Stepping out the door
 
