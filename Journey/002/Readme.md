@@ -1,52 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Logging and Monitoring in AWS
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Amazon Web Services (AWS) logging and monitoring is a set of practices you can use to verify the security and performance of your AWS resources and data. These practices rely on various tools and services to collect, analyze, and present data insights. You can then use these insights to identify vulnerabilities and issues, predict performance, and optimize configurations.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Logging and monitoring is very important to monitor data from all parts of an AWS account. Logs are very important to keep track of compliance requirement and troubleshooting issues
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Database logs - help you detect queries that are slow to run.
+- Application logs - point out application failures.
+- AWS CloudTrail - detects API calls made to AWS.
+- Elastic Load Balancing and host logs - might indicate availability or latency changes.
+- OS logs - can identify host failure reasons.
+- Web server logs - as well as firewall logs and VPC flow logs can detect patterns of access and attacks.
 
-## Try yourself
+Audit points:
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- Is a cloud trail enabled on the AWS account / AWS organization?
+- Is the cloud trail applied to all the AWS regions
+- Is CloudTrail log file integrity enabled
+- Is cloudWatch logs enabled
+- Does logging takes place in a dedicated and centralized S3 bucket
+- Is least privilege access implemented to Amazon S3 buckets where you store log files
+- Check if Amazon GuardDuty enabled to check for any malicious activities in the AWS accounts
+- Review Identity and Access Management (IAM) credentials report
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter](https://twitter.com/saucyvip3r/status/1579531076716101633)
